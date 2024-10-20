@@ -334,7 +334,7 @@ SELECT
 FROM 
     Product;  -- Replace with your actual table name
 
---Case Study
+--Case Study_2
 --LOCATION TABLE
 CREATE TABLE LOCATION_1(
 LOCATION_ID INT,
